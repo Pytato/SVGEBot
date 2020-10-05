@@ -1,4 +1,7 @@
 # SVGEBot
+Bot was dropped for "Koala" bot, developed by some computer science 
+students within SVGE, repo archived.
+
 The new, pythonic, all singing, all dancing bot for SVGE.
 Hopefully should be rather easy to maintain, and with the power 
 of Python, rather understandable, even with currently limited 
